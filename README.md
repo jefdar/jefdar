@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jeffry Darmawan
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data Science and Analytic
 - 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on Data Science project
 - 📫 How to reach me https://www.linkedin.com/in/jeffrydarmawan/
